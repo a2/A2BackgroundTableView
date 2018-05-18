@@ -1,12 +1,12 @@
-#A2BackgroundTableView
+# A2BackgroundTableView
 
 `A2BackgroundTableView` is a UITableView subclass that allows a scrolling and tiled background image to be displayed behind grouped cells.
 
-##Usage
+## Usage
 
 Use `A2BackgroundTableView` where you would otherwise use a `UITableView`. Use the `-initWithBackgroundImage:` or `-initWithFrame:backgroundImage:` methods to initialize the table view or `-setBackgroundImage:` to set the background image.
 
-##License
+## License
 
 `A2BackgroundTableView` is licensed by [Alexsander Akers](http://alexsander.ca) and [Pandamonia LLC](http://pandamonia.us) under the Simplified BSD License, which is reproduced in its entirety here:
 
